@@ -1,0 +1,108 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# TensorFlow / Keras
+*.h5
+*.hdf5
+*.keras
+*.pb
+*.pth
+*.ckpt
+*.npz
+logs/
+tensorboard_logs/
+
+# Model checkpoints
+*.ckpt
+*.ckpt.index
+*.ckpt.data-*
+
+# Dataset
+data/
+numpy_data/
+*.npy
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Streamlit
+.streamlit/
+
+# Other
+*.png
+!Screenshot*.png
+*.jpg
+*.jpeg
+*.gif
+*.avi
+*.mp4
+*.mov
