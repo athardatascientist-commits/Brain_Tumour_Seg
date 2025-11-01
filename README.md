@@ -230,12 +230,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **TensorFlow/Keras**: For the deep learning framework
 - **PyVista/VTK**: For 3D visualization capabilities
 
-## 📧 Contact
-
-For questions, suggestions, or collaborations, please reach out:
-
-- **Project Link**: [GitHub Repository]
-- **Email**: your.email@example.com
 
 ## 📚 References
 
