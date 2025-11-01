@@ -1,6 +1,6 @@
 # 3D Brain Tumor Segmentation System
 
-![Brain Tumor Segmentation]("Screenshot from 2025-02-21 10-50-26.png")
+![Brain Tumor Segmentation](Screenshot.png)
 
 A deep learning-based web application for automatic segmentation of brain tumors from 3D MRI scans using an attention-based U-Net architecture. This application provides an intuitive web interface for uploading MRI data and visualizing segmentation results in both 3D and 2D views.
 
